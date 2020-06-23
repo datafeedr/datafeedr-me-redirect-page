@@ -1,0 +1,6 @@
+[build]
+
+[[redirects]]
+  from = "/storefront"
+  to = "https://woocommerce.com/storefront/?aff=3920"
+  
