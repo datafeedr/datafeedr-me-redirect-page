@@ -1,295 +1,390 @@
 [build]
 
 [[redirects]]
-
   from = "/storefront"
   to = "https://woocommerce.com/storefront/?aff=3920"
   
+[[redirects]]
   from = "/storefront-child-themes"
   to = "https://woocommerce.com/product-category/themes/storefront-child-theme-themes/?aff=3920"
   
+[[redirects]]
   from = "/shareasale"
   to = "http://shareasale.com/r.cfm?b=1525&u=169381&m=47&urllink=&afftrack="
   
+[[redirects]]
   from = "/woocommerce-brands"
   to = "https://woocommerce.com/products/brands/?aff=3920"
   
+[[redirects]]
   from = "/woocommerce-extensions"
   to = "https://woocommerce.com/product-category/woocommerce-extensions/?aff=3920"
   
+[[redirects]]
   from = "/contact"
   to = "https://datafeedrapi.helpscoutdocs.com/contact"
   
+[[redirects]]
   from = "/thrive-themes"
   to = "https://thrivethemes.com/affiliates/ref.php?id=5991_1_3_4"
   
+[[redirects]]
   from = "/login"
   to = "https://members.datafeedr.com/"
   
+[[redirects]]
   from = "/my-account"
   to = "https://members.datafeedr.com/"
   
+[[redirects]]
   from = "/sign-up"
   to = "https://members.datafeedr.com/subscribe"
   
+[[redirects]]
   from = "/join"
   to = "https://members.datafeedr.com/subscribe"
   
+[[redirects]]
   from = "/signup"
   to = "https://members.datafeedr.com/subscribe"
   
+[[redirects]]
   from = "/siteground-webhosting"
   to = "https://www.siteground.com/go/hosting-options"
   
+[[redirects]]
   from = "/siteground-cloudhosting"
   to = "https://www.siteground.com/go/fully-managed-cloud"
   
+[[redirects]]
   from = "/siteground"
   to = "https://www.siteground.com/index.htm?afcode=890e1d413ba4ecb086ae8c321aec486c"
   
+[[redirects]]
   from = "/gravityforms"
   to = "https://rocketgenius.pxf.io/c/1211500/445235/7938"
   
+[[redirects]]
   from = "/easycron"
   to = "https://www.easycron.com/user/register?ref=18185"
   
+[[redirects]]
   from = "/themify"
   to = "http://themify.me/member/go.php?r=29579&i=l0"
   
+[[redirects]]
   from = "/avantlink"
   to = "http://www.avantlink.com/click.php?tt=ml&ti=1061&pw=15759"
   
+[[redirects]]
   from = "/customization"
   to = "https://codeable.io/partners/datafeedr/?ref=gMHj1"
   
+[[redirects]]
   from = "/elegantthemes"
   to = "http://www.elegantthemes.com/affiliates/idevaffiliate.php?id=24974"
   
+[[redirects]]
   from = "/guarantee"
   to = "https://datafeedrapi.helpscoutdocs.com/article/83-money-back-guarantee"
   
+[[redirects]]
   from = "/refund"
   to = "https://datafeedrapi.helpscoutdocs.com/article/83-money-back-guarantee"
   
+[[redirects]]
   from = "/wpintense"
   to = "https://www.wpintense.com/?wpi-performance-guru=158"
   
+[[redirects]]
   from = "/adrecord"
   to = "https://www.adrecord.com/"
   
+[[redirects]]
   from = "/adtraction"
   to = "https://adtraction.com/"
   
+[[redirects]]
   from = "/awin"
   to = "https://www.awin.com/"
   
+[[redirects]]
   from = "/affilinet"
   to = "https://www.affili.net/"
   
+[[redirects]]
   from = "/apd"
   to = "http://www.apdgroup.com/"
   
+[[redirects]]
   from = "/avangate"
   to = "http://www.avangate.com/"
   
+[[redirects]]
   from = "/belboon"
   to = "https://www.belboon.com/"
   
+[[redirects]]
   from = "/bettymills"
   to = "https://www.bettymills.com/"
   
+[[redirects]]
   from = "/bol"
   to = "https://www.bol.com/"
   
+[[redirects]]
   from = "/clickbank"
   to = "https://www.clickbank.com/"
   
+[[redirects]]
   from = "/clixgalore"
   to = "https://www.clixgalore.com/"
   
+[[redirects]]
   from = "/commissionfactory"
   to = "https://www.commissionfactory.com/"
   
+[[redirects]]
   from = "/cj"
   to = "http://www.cj.com/"
   
+[[redirects]]
   from = "/daisycon"
   to = "https://www.daisycon.com/"
   
+[[redirects]]
   from = "/doublenet"
   to = "http://www.double.net/"
   
+[[redirects]]
   from = "/effiliation"
   to = "https://www.effiliation.com/"
   
+[[redirects]]
   from = "/flipkart"
   to = "https://www.flipkart.com/"
   
+[[redirects]]
   from = "/impact"
   to = "https://impact.com/"
   
+[[redirects]]
   from = "/linkconnector"
   to = "https://www.linkconnector.com/"
   
+[[redirects]]
   from = "/rakutenmarketing"
   to = "https://rakutenmarketing.com/"
   
+[[redirects]]
   from = "/onenetworkdirect"
   to = "http://www.onenetworkdirect.com/"
   
+[[redirects]]
   from = "/optimise"
   to = "https://www.optimisemedia.com/"
   
+[[redirects]]
   from = "/paidonresults"
   to = "https://www.paidonresults.com/"
   
+[[redirects]]
   from = "/partnerads"
   to = "https://www.partner-ads.com/"
   
+[[redirects]]
   from = "/pepperjam"
   to = "https://www.pepperjam.com/"
   
+[[redirects]]
   from = "/performancehorizon"
   to = "https://performancehorizon.com/"
   
+[[redirects]]
   from = "/revresponse"
   to = "http://www.revresponse.com/"
   
+[[redirects]]
   from = "/shopello"
   to = "https://www.shopelloapi.com/"
   
+[[redirects]]
   from = "/superclix"
   to = "https://www.superclix.de/"
   
+[[redirects]]
   from = "/tradedoubler"
   to = "http://www.tradedoubler.com/"
   
+[[redirects]]
   from = "/tradetracker"
   to = "https://tradetracker.com/"
   
+[[redirects]]
   from = "/webgains"
   to = "http://www.webgains.com/"
   
+[[redirects]]
   from = "/zanox"
   to = "https://marketplace.zanox.com/"
   
+[[redirects]]
   from = "/networks"
   to = "https://www.datafeedr.com/networks/"
   
+[[redirects]]
   from = "/recommended-themes"
   to = "https://datafeedrapi.helpscoutdocs.com/article/153-what-woocommerce-theme-do-you-recommend"
   
+[[redirects]]
   from = "/apidocs"
   to = "https://datafeedr.github.io/datafeedr-api-docs/"
   
+[[redirects]]
   from = "/what-is-api-request"
   to = "https://datafeedrapi.helpscoutdocs.com/article/170-what-is-an-api-request"
   
+[[redirects]]
   from = "/docs"
   to = "https://datafeedrapi.helpscoutdocs.com/"
   
+[[redirects]]
   from = "/members"
   to = "https://members.datafeedr.com/"
   
+[[redirects]]
   from = "/dfrapi"
   to = "https://wordpress.org/plugins/datafeedr-api/"
   
+[[redirects]]
   from = "/dfrps"
   to = "https://wordpress.org/plugins/datafeedr-product-sets/"
   
+[[redirects]]
   from = "/dfrpswc"
   to = "https://wordpress.org/plugins/datafeedr-woocommerce-importer/"
   
+[[redirects]]
   from = "/dfrcs"
   to = "https://wordpress.org/plugins/datafeedr-comparison-sets/"
   
+[[redirects]]
   from = "/wccal"
   to = "https://wordpress.org/plugins/woocommerce-cloak-affiliate-links/"
   
+[[redirects]]
   from = "/where-is-amazon"
   to = "https://datafeedrapi.helpscoutdocs.com/article/151-where-is-amazon"
   
+[[redirects]]
   from = "/skimlinks"
   to = "https://datafeedrapi.helpscoutdocs.com/article/33-replace-affiliate-link-with-a-skimlinks-link"
   
+[[redirects]]
   from = "/viglink"
   to = "https://datafeedrapi.helpscoutdocs.com/article/90-replace-affiliate-link-with-a-viglink-link"
   
+[[redirects]]
   from = "/affiliate-program"
   to = "https://affiliates.datafeedr.com/"
   
+[[redirects]]
   from = "/free-trial"
   to = "https://datafeedrapi.helpscoutdocs.com/article/82-free-trial"
   
+[[redirects]]
   from = "/woocommerce"
   to = "https://wordpress.org/plugins/woocommerce/"
   
+[[redirects]]
   from = "/multisite"
   to = "https://datafeedrapi.helpscoutdocs.com/article/224-how-to-use-datafeedr-with-wordpress-multisite"
   
+[[redirects]]
   from = "/signup-starter"
   to = "https://members.datafeedr.com/subscribe/2010000"
   
+[[redirects]]
   from = "/signup-basic"
   to = "https://members.datafeedr.com/subscribe/2040000"
   
+[[redirects]]
   from = "/signup-professional"
   to = "https://members.datafeedr.com/subscribe/20150000"
   
+[[redirects]]
   from = "/twitter"
   to = "https://twitter.com/datafeedr"
   
+[[redirects]]
   from = "/facebook"
   to = "https://www.facebook.com/datafeedr"
   
+[[redirects]]
   from = "/google-plus"
   to = "https://www.google.com/+datafeedr"
   
+[[redirects]]
   from = "/youtube"
   to = "https://www.youtube.com/user/Datafeedr"
   
+[[redirects]]
   from = "/custom-plugin"
   to = "https://datafeedrapi.helpscoutdocs.com/article/32-creating-your-own-custom-plugin"
   
+[[redirects]]
   from = "/woozone"
   to = "http://codecanyon.net/item/woocommerce-amazon-affiliates-wordpress-plugin/3057503?ref=oreamnos8"
   
+[[redirects]]
   from = "/codeable"
   to = "https://codeable.io/partners/datafeedr/?ref=gMHj1"
   
+[[redirects]]
   from = "/signup-1site"
   to = "https://members.datafeedr.com/subscribe/20001"
   
+[[redirects]]
   from = "/signup-5sites"
   to = "https://members.datafeedr.com/subscribe/20005"
   
+[[redirects]]
   from = "/signup-unlimitedsites"
   to = "https://members.datafeedr.com/subscribe/20999"
   
+[[redirects]]
   from = "/tc"
   to = "https://www.datafeedr.com/terms/"
   
+[[redirects]]
   from = "/privacy"
   to = "https://www.datafeedr.com/privacy/"
   
+[[redirects]]
   from = "/cookie"
   to = "https://www.datafeedr.com/cookies/"
   
+[[redirects]]
   from = "/partnerize"
   to = "https://partnerize.com/en"
   
+[[redirects]]
   from = "/csv-importer"
   to = "https://woocommerce.com/products/product-csv-import-suite/?aff=3920"
   
+[[redirects]]
   from = "/flexoffers"
   to = "https://www.flexoffers.com/"
   
+[[redirects]]
   from = "/theaffiliategateway"
   to = "https://www.theaffiliategateway.com/"
   
+[[redirects]]
   from = "/adcell"
   to = "https://www.adcell.de/"
   
+[[redirects]]
   from = "/generatepress"
   to = "https://generatepress.com/?ref=448"
   
