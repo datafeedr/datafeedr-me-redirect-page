@@ -1,6 +1,295 @@
 [build]
 
 [[redirects]]
+
   from = "/storefront"
   to = "https://woocommerce.com/storefront/?aff=3920"
+  
+  from = "/storefront-child-themes"
+  to = "https://woocommerce.com/product-category/themes/storefront-child-theme-themes/?aff=3920"
+  
+  from = "/shareasale"
+  to = "http://shareasale.com/r.cfm?b=1525&u=169381&m=47&urllink=&afftrack="
+  
+  from = "/woocommerce-brands"
+  to = "https://woocommerce.com/products/brands/?aff=3920"
+  
+  from = "/woocommerce-extensions"
+  to = "https://woocommerce.com/product-category/woocommerce-extensions/?aff=3920"
+  
+  from = "/contact"
+  to = "https://datafeedrapi.helpscoutdocs.com/contact"
+  
+  from = "/thrive-themes"
+  to = "https://thrivethemes.com/affiliates/ref.php?id=5991_1_3_4"
+  
+  from = "/login"
+  to = "https://members.datafeedr.com/"
+  
+  from = "/my-account"
+  to = "https://members.datafeedr.com/"
+  
+  from = "/sign-up"
+  to = "https://members.datafeedr.com/subscribe"
+  
+  from = "/join"
+  to = "https://members.datafeedr.com/subscribe"
+  
+  from = "/signup"
+  to = "https://members.datafeedr.com/subscribe"
+  
+  from = "/siteground-webhosting"
+  to = "https://www.siteground.com/go/hosting-options"
+  
+  from = "/siteground-cloudhosting"
+  to = "https://www.siteground.com/go/fully-managed-cloud"
+  
+  from = "/siteground"
+  to = "https://www.siteground.com/index.htm?afcode=890e1d413ba4ecb086ae8c321aec486c"
+  
+  from = "/gravityforms"
+  to = "https://rocketgenius.pxf.io/c/1211500/445235/7938"
+  
+  from = "/easycron"
+  to = "https://www.easycron.com/user/register?ref=18185"
+  
+  from = "/themify"
+  to = "http://themify.me/member/go.php?r=29579&i=l0"
+  
+  from = "/avantlink"
+  to = "http://www.avantlink.com/click.php?tt=ml&ti=1061&pw=15759"
+  
+  from = "/customization"
+  to = "https://codeable.io/partners/datafeedr/?ref=gMHj1"
+  
+  from = "/elegantthemes"
+  to = "http://www.elegantthemes.com/affiliates/idevaffiliate.php?id=24974"
+  
+  from = "/guarantee"
+  to = "https://datafeedrapi.helpscoutdocs.com/article/83-money-back-guarantee"
+  
+  from = "/refund"
+  to = "https://datafeedrapi.helpscoutdocs.com/article/83-money-back-guarantee"
+  
+  from = "/wpintense"
+  to = "https://www.wpintense.com/?wpi-performance-guru=158"
+  
+  from = "/adrecord"
+  to = "https://www.adrecord.com/"
+  
+  from = "/adtraction"
+  to = "https://adtraction.com/"
+  
+  from = "/awin"
+  to = "https://www.awin.com/"
+  
+  from = "/affilinet"
+  to = "https://www.affili.net/"
+  
+  from = "/apd"
+  to = "http://www.apdgroup.com/"
+  
+  from = "/avangate"
+  to = "http://www.avangate.com/"
+  
+  from = "/belboon"
+  to = "https://www.belboon.com/"
+  
+  from = "/bettymills"
+  to = "https://www.bettymills.com/"
+  
+  from = "/bol"
+  to = "https://www.bol.com/"
+  
+  from = "/clickbank"
+  to = "https://www.clickbank.com/"
+  
+  from = "/clixgalore"
+  to = "https://www.clixgalore.com/"
+  
+  from = "/commissionfactory"
+  to = "https://www.commissionfactory.com/"
+  
+  from = "/cj"
+  to = "http://www.cj.com/"
+  
+  from = "/daisycon"
+  to = "https://www.daisycon.com/"
+  
+  from = "/doublenet"
+  to = "http://www.double.net/"
+  
+  from = "/effiliation"
+  to = "https://www.effiliation.com/"
+  
+  from = "/flipkart"
+  to = "https://www.flipkart.com/"
+  
+  from = "/impact"
+  to = "https://impact.com/"
+  
+  from = "/linkconnector"
+  to = "https://www.linkconnector.com/"
+  
+  from = "/rakutenmarketing"
+  to = "https://rakutenmarketing.com/"
+  
+  from = "/onenetworkdirect"
+  to = "http://www.onenetworkdirect.com/"
+  
+  from = "/optimise"
+  to = "https://www.optimisemedia.com/"
+  
+  from = "/paidonresults"
+  to = "https://www.paidonresults.com/"
+  
+  from = "/partnerads"
+  to = "https://www.partner-ads.com/"
+  
+  from = "/pepperjam"
+  to = "https://www.pepperjam.com/"
+  
+  from = "/performancehorizon"
+  to = "https://performancehorizon.com/"
+  
+  from = "/revresponse"
+  to = "http://www.revresponse.com/"
+  
+  from = "/shopello"
+  to = "https://www.shopelloapi.com/"
+  
+  from = "/superclix"
+  to = "https://www.superclix.de/"
+  
+  from = "/tradedoubler"
+  to = "http://www.tradedoubler.com/"
+  
+  from = "/tradetracker"
+  to = "https://tradetracker.com/"
+  
+  from = "/webgains"
+  to = "http://www.webgains.com/"
+  
+  from = "/zanox"
+  to = "https://marketplace.zanox.com/"
+  
+  from = "/networks"
+  to = "https://www.datafeedr.com/networks/"
+  
+  from = "/recommended-themes"
+  to = "https://datafeedrapi.helpscoutdocs.com/article/153-what-woocommerce-theme-do-you-recommend"
+  
+  from = "/apidocs"
+  to = "https://datafeedr.github.io/datafeedr-api-docs/"
+  
+  from = "/what-is-api-request"
+  to = "https://datafeedrapi.helpscoutdocs.com/article/170-what-is-an-api-request"
+  
+  from = "/docs"
+  to = "https://datafeedrapi.helpscoutdocs.com/"
+  
+  from = "/members"
+  to = "https://members.datafeedr.com/"
+  
+  from = "/dfrapi"
+  to = "https://wordpress.org/plugins/datafeedr-api/"
+  
+  from = "/dfrps"
+  to = "https://wordpress.org/plugins/datafeedr-product-sets/"
+  
+  from = "/dfrpswc"
+  to = "https://wordpress.org/plugins/datafeedr-woocommerce-importer/"
+  
+  from = "/dfrcs"
+  to = "https://wordpress.org/plugins/datafeedr-comparison-sets/"
+  
+  from = "/wccal"
+  to = "https://wordpress.org/plugins/woocommerce-cloak-affiliate-links/"
+  
+  from = "/where-is-amazon"
+  to = "https://datafeedrapi.helpscoutdocs.com/article/151-where-is-amazon"
+  
+  from = "/skimlinks"
+  to = "https://datafeedrapi.helpscoutdocs.com/article/33-replace-affiliate-link-with-a-skimlinks-link"
+  
+  from = "/viglink"
+  to = "https://datafeedrapi.helpscoutdocs.com/article/90-replace-affiliate-link-with-a-viglink-link"
+  
+  from = "/affiliate-program"
+  to = "https://affiliates.datafeedr.com/"
+  
+  from = "/free-trial"
+  to = "https://datafeedrapi.helpscoutdocs.com/article/82-free-trial"
+  
+  from = "/woocommerce"
+  to = "https://wordpress.org/plugins/woocommerce/"
+  
+  from = "/multisite"
+  to = "https://datafeedrapi.helpscoutdocs.com/article/224-how-to-use-datafeedr-with-wordpress-multisite"
+  
+  from = "/signup-starter"
+  to = "https://members.datafeedr.com/subscribe/2010000"
+  
+  from = "/signup-basic"
+  to = "https://members.datafeedr.com/subscribe/2040000"
+  
+  from = "/signup-professional"
+  to = "https://members.datafeedr.com/subscribe/20150000"
+  
+  from = "/twitter"
+  to = "https://twitter.com/datafeedr"
+  
+  from = "/facebook"
+  to = "https://www.facebook.com/datafeedr"
+  
+  from = "/google-plus"
+  to = "https://www.google.com/+datafeedr"
+  
+  from = "/youtube"
+  to = "https://www.youtube.com/user/Datafeedr"
+  
+  from = "/custom-plugin"
+  to = "https://datafeedrapi.helpscoutdocs.com/article/32-creating-your-own-custom-plugin"
+  
+  from = "/woozone"
+  to = "http://codecanyon.net/item/woocommerce-amazon-affiliates-wordpress-plugin/3057503?ref=oreamnos8"
+  
+  from = "/codeable"
+  to = "https://codeable.io/partners/datafeedr/?ref=gMHj1"
+  
+  from = "/signup-1site"
+  to = "https://members.datafeedr.com/subscribe/20001"
+  
+  from = "/signup-5sites"
+  to = "https://members.datafeedr.com/subscribe/20005"
+  
+  from = "/signup-unlimitedsites"
+  to = "https://members.datafeedr.com/subscribe/20999"
+  
+  from = "/tc"
+  to = "https://www.datafeedr.com/terms/"
+  
+  from = "/privacy"
+  to = "https://www.datafeedr.com/privacy/"
+  
+  from = "/cookie"
+  to = "https://www.datafeedr.com/cookies/"
+  
+  from = "/partnerize"
+  to = "https://partnerize.com/en"
+  
+  from = "/csv-importer"
+  to = "https://woocommerce.com/products/product-csv-import-suite/?aff=3920"
+  
+  from = "/flexoffers"
+  to = "https://www.flexoffers.com/"
+  
+  from = "/theaffiliategateway"
+  to = "https://www.theaffiliategateway.com/"
+  
+  from = "/adcell"
+  to = "https://www.adcell.de/"
+  
+  from = "/generatepress"
+  to = "https://generatepress.com/?ref=448"
   
