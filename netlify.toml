@@ -389,6 +389,14 @@
   to = "https://generatepress.com/?ref=448"
   
 [[redirects]]
-  from = "/signup-basic?c=oto20"
+  from = "/signup-starter-oto20"
+  to = "https://members.datafeedr.com/subscribe/2010000?c=oto20"
+  
+[[redirects]]
+  from = "/signup-basic-oto20"
   to = "https://members.datafeedr.com/subscribe/2040000?c=oto20"
+  
+[[redirects]]
+  from = "/signup-professional-oto20"
+  to = "https://members.datafeedr.com/subscribe/20150000?c=oto20"
   
