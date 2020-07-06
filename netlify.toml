@@ -400,3 +400,15 @@
   from = "/signup-professional-oto20"
   to = "https://members.datafeedr.com/subscribe/20150000?c=oto20"
   
+[[redirects]]
+  from = "/signup-starter-oto15"
+  to = "https://members.datafeedr.com/subscribe/2010000?c=oto15"
+  
+[[redirects]]
+  from = "/signup-basic-oto15"
+  to = "https://members.datafeedr.com/subscribe/2040000?c=oto15"
+  
+[[redirects]]
+  from = "/signup-professional-oto15"
+  to = "https://members.datafeedr.com/subscribe/20150000?c=oto15"
+  
