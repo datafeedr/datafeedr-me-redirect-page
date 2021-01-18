@@ -9,6 +9,10 @@
   to = "https://wordpress.org/plugins/woocommerce/"
 
 [[redirects]]
+  from = "/discussions"
+  to = "https://github.com/datafeedr/wordpress-plugins/discussions"
+
+[[redirects]]
   from = "/generatepress"
   to = "https://generatepress.com/?ref=448"
 
