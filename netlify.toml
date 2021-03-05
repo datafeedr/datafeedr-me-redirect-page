@@ -5,6 +5,10 @@
   to = "https://themeforest.net/category/wordpress/ecommerce/woocommerce?direction=desc&order_by=rating&ref=oreamnos8&term=woocommerce"
 
 [[redirects]]
+  from = "/scratchpad"
+  to = "https://scratchpad.datafeedr.com/"
+  
+[[redirects]]
   from = "/wc"
   to = "https://wordpress.org/plugins/woocommerce/"
 
