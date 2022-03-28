@@ -448,3 +448,7 @@
   from = "/signup-professional-oto15"
   to = "https://members.datafeedr.com/subscribe/30150000?c=oto15"
   
+[[redirects]]
+  from = "/status"
+  to = "https://status.datafeedr.com/"
+  
