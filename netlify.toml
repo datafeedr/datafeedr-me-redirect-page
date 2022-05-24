@@ -452,3 +452,22 @@
   from = "/status"
   to = "https://status.datafeedr.com/"
   
+[[redirects]]
+  from = "/dfrapi-download"
+  to = "https://downloads.wordpress.org/plugin/datafeedr-api.zip"
+  
+[[redirects]]
+  from = "/dfrps-download"
+  to = "https://downloads.wordpress.org/plugin/datafeedr-product-sets.zip"
+  
+[[redirects]]
+  from = "/dfrpswc-download"
+  to = "https://downloads.wordpress.org/plugin/datafeedr-woocommerce-importer.zip"
+  
+[[redirects]]
+  from = "/dfrcs-download"
+  to = "https://downloads.wordpress.org/plugin/datafeedr-comparison-sets.zip"
+  
+[[redirects]]
+  from = "/wccal-download"
+  to = "https://downloads.wordpress.org/plugin/woocommerce-cloak-affiliate-links.zip"
