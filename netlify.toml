@@ -69,26 +69,6 @@
   to = "https://thrivethemes.com/affiliates/ref.php?id=5991_1_3_4"
   
 [[redirects]]
-  from = "/login"
-  to = "https://members.datafeedr.com/"
-  
-[[redirects]]
-  from = "/my-account"
-  to = "https://members.datafeedr.com/"
-  
-[[redirects]]
-  from = "/sign-up"
-  to = "https://members.datafeedr.com/subscribe"
-  
-[[redirects]]
-  from = "/join"
-  to = "https://members.datafeedr.com/subscribe"
-  
-[[redirects]]
-  from = "/signup"
-  to = "https://members.datafeedr.com/subscribe"
-  
-[[redirects]]
   from = "/siteground-webhosting"
   to = "https://www.siteground.com/go/hosting-options"
   
@@ -289,10 +269,6 @@
   to = "https://datafeedrapi.helpscoutdocs.com/"
   
 [[redirects]]
-  from = "/members"
-  to = "https://members.datafeedr.com/"
-  
-[[redirects]]
   from = "/dfrapi"
   to = "https://wordpress.org/plugins/datafeedr-api/"
   
@@ -341,18 +317,6 @@
   to = "https://datafeedrapi.helpscoutdocs.com/article/224-how-to-use-datafeedr-with-wordpress-multisite"
   
 [[redirects]]
-  from = "/signup-starter"
-  to = "https://members.datafeedr.com/subscribe/2010000"
-  
-[[redirects]]
-  from = "/signup-basic"
-  to = "https://members.datafeedr.com/subscribe/2040000"
-  
-[[redirects]]
-  from = "/signup-professional"
-  to = "https://members.datafeedr.com/subscribe/30150000"
-  
-[[redirects]]
   from = "/twitter"
   to = "https://twitter.com/datafeedr"
   
@@ -379,18 +343,6 @@
 [[redirects]]
   from = "/codeable"
   to = "https://codeable.io/partners/datafeedr/?ref=gMHj1"
-  
-[[redirects]]
-  from = "/signup-1site"
-  to = "https://members.datafeedr.com/subscribe/20001"
-  
-[[redirects]]
-  from = "/signup-5sites"
-  to = "https://members.datafeedr.com/subscribe/20005"
-  
-[[redirects]]
-  from = "/signup-unlimitedsites"
-  to = "https://members.datafeedr.com/subscribe/20999"
   
 [[redirects]]
   from = "/tc"
@@ -425,6 +377,32 @@
   to = "https://www.adcell.de/"
   
 [[redirects]]
+  from = "/status"
+  to = "https://status.datafeedr.com/"
+  
+[[redirects]]
+  from = "/dfrapi-download"
+  to = "https://downloads.wordpress.org/plugin/datafeedr-api.zip"
+  
+[[redirects]]
+  from = "/dfrps-download"
+  to = "https://downloads.wordpress.org/plugin/datafeedr-product-sets.zip"
+  
+[[redirects]]
+  from = "/dfrpswc-download"
+  to = "https://downloads.wordpress.org/plugin/datafeedr-woocommerce-importer.zip"
+  
+[[redirects]]
+  from = "/dfrcs-download"
+  to = "https://downloads.wordpress.org/plugin/datafeedr-comparison-sets.zip"
+  
+[[redirects]]
+  from = "/wccal-download"
+  to = "https://downloads.wordpress.org/plugin/woocommerce-cloak-affiliate-links.zip"
+
+
+  
+[[redirects]]
   from = "/signup-starter-oto20"
   to = "https://members.datafeedr.com/subscribe/2010000?c=oto20"
   
@@ -449,29 +427,53 @@
   to = "https://members.datafeedr.com/subscribe/30150000?c=oto15"
   
 [[redirects]]
-  from = "/status"
-  to = "https://status.datafeedr.com/"
+  from = "/signup-1site"
+  to = "https://members.datafeedr.com/subscribe/20001"
   
 [[redirects]]
-  from = "/dfrapi-download"
-  to = "https://downloads.wordpress.org/plugin/datafeedr-api.zip"
+  from = "/signup-5sites"
+  to = "https://members.datafeedr.com/subscribe/20005"
   
 [[redirects]]
-  from = "/dfrps-download"
-  to = "https://downloads.wordpress.org/plugin/datafeedr-product-sets.zip"
+  from = "/signup-unlimitedsites"
+  to = "https://members.datafeedr.com/subscribe/20999"
   
 [[redirects]]
-  from = "/dfrpswc-download"
-  to = "https://downloads.wordpress.org/plugin/datafeedr-woocommerce-importer.zip"
+  from = "/signup-starter"
+  to = "https://members.datafeedr.com/subscribe/2010000"
   
 [[redirects]]
-  from = "/dfrcs-download"
-  to = "https://downloads.wordpress.org/plugin/datafeedr-comparison-sets.zip"
+  from = "/signup-basic"
+  to = "https://members.datafeedr.com/subscribe/2040000"
   
 [[redirects]]
-  from = "/wccal-download"
-  to = "https://downloads.wordpress.org/plugin/woocommerce-cloak-affiliate-links.zip"
+  from = "/signup-professional"
+  to = "https://members.datafeedr.com/subscribe/30150000"
   
+[[redirects]]
+  from = "/members"
+  to = "https://members.datafeedr.com/"
+  
+[[redirects]]
+  from = "/login"
+  to = "https://members.datafeedr.com/"
+  
+[[redirects]]
+  from = "/my-account"
+  to = "https://members.datafeedr.com/"
+  
+[[redirects]]
+  from = "/sign-up"
+  to = "https://members.datafeedr.com/subscribe"
+  
+[[redirects]]
+  from = "/join"
+  to = "https://members.datafeedr.com/subscribe"
+  
+[[redirects]]
+  from = "/signup"
+  to = "https://members.datafeedr.com/subscribe"
+
 [[redirects]]
   from = "/subscribe-2010000"
   to = "https://members.datafeedr.com/subscribe/2010000"
