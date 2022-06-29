@@ -471,3 +471,16 @@
 [[redirects]]
   from = "/wccal-download"
   to = "https://downloads.wordpress.org/plugin/woocommerce-cloak-affiliate-links.zip"
+  
+[[redirects]]
+  from = "/subscribe-2010000"
+  to = "https://members.datafeedr.com/subscribe/2010000"
+  
+[[redirects]]
+  from = "/subscribe-2040000"
+  to = "https://members.datafeedr.com/subscribe/2040000"
+  
+[[redirects]]
+  from = "/subscribe-30150000"
+  to = "https://members.datafeedr.com/subscribe/30150000"
+    
