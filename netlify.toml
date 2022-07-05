@@ -404,85 +404,85 @@
   
 [[redirects]]
   from = "/signup-starter-oto20"
-  to = "https://members.datafeedr.com/subscribe/2010000?c=oto20"
+  to = "https://my.datafeedr.com/register"
   
 [[redirects]]
   from = "/signup-basic-oto20"
-  to = "https://members.datafeedr.com/subscribe/2040000?c=oto20"
+  to = "https://my.datafeedr.com/register"
   
 [[redirects]]
   from = "/signup-professional-oto20"
-  to = "https://members.datafeedr.com/subscribe/30150000?c=oto20"
+  to = "https://my.datafeedr.com/register"
   
 [[redirects]]
   from = "/signup-starter-oto15"
-  to = "https://members.datafeedr.com/subscribe/2010000?c=oto15"
+  to = "https://my.datafeedr.com/register"
   
 [[redirects]]
   from = "/signup-basic-oto15"
-  to = "https://members.datafeedr.com/subscribe/2040000?c=oto15"
+  to = "https://my.datafeedr.com/register"
   
 [[redirects]]
   from = "/signup-professional-oto15"
-  to = "https://members.datafeedr.com/subscribe/30150000?c=oto15"
+  to = "https://my.datafeedr.com/register"
   
 [[redirects]]
   from = "/signup-1site"
-  to = "https://members.datafeedr.com/subscribe/20001"
+  to = "https://my.datafeedr.com/register"
   
 [[redirects]]
   from = "/signup-5sites"
-  to = "https://members.datafeedr.com/subscribe/20005"
+  to = "https://my.datafeedr.com/register"
   
 [[redirects]]
   from = "/signup-unlimitedsites"
-  to = "https://members.datafeedr.com/subscribe/20999"
+  to = "https://my.datafeedr.com/register"
   
 [[redirects]]
   from = "/signup-starter"
-  to = "https://members.datafeedr.com/subscribe/2010000"
+  to = "https://my.datafeedr.com/register"
   
 [[redirects]]
   from = "/signup-basic"
-  to = "https://members.datafeedr.com/subscribe/2040000"
+  to = "https://my.datafeedr.com/register"
   
 [[redirects]]
   from = "/signup-professional"
-  to = "https://members.datafeedr.com/subscribe/30150000"
+  to = "https://my.datafeedr.com/register"
   
 [[redirects]]
   from = "/members"
-  to = "https://members.datafeedr.com/"
+  to = "https://my.datafeedr.com/dashboard"
   
 [[redirects]]
   from = "/login"
-  to = "https://members.datafeedr.com/"
+  to = "https://my.datafeedr.com/login"
   
 [[redirects]]
   from = "/my-account"
-  to = "https://members.datafeedr.com/"
+  to = "https://my.datafeedr.com/dashboard"
   
 [[redirects]]
   from = "/sign-up"
-  to = "https://members.datafeedr.com/subscribe"
+  to = "https://my.datafeedr.com/dashboard"
   
 [[redirects]]
   from = "/join"
-  to = "https://members.datafeedr.com/subscribe"
+  to = "https://my.datafeedr.com/register"
   
 [[redirects]]
   from = "/signup"
-  to = "https://members.datafeedr.com/subscribe"
+  to = "https://my.datafeedr.com/register"
 
 [[redirects]]
   from = "/subscribe-2010000"
-  to = "https://members.datafeedr.com/subscribe/2010000"
+  to = "https://my.datafeedr.com/register"
   
 [[redirects]]
   from = "/subscribe-2040000"
-  to = "https://members.datafeedr.com/subscribe/2040000"
+  to = "https://my.datafeedr.com/register"
   
 [[redirects]]
   from = "/subscribe-30150000"
-  to = "https://members.datafeedr.com/subscribe/30150000"
+  to = "https://my.datafeedr.com/register"
     
