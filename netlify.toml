@@ -497,4 +497,8 @@
 [[redirects]]
   from = "/api"
   to = "https://my.datafeedr.com/api"
+  
+[[redirects]]
+  from = "/pricing"
+  to = "https://www.datafeedr.com/#pricing"
     
