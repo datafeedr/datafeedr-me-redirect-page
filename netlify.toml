@@ -485,4 +485,8 @@
 [[redirects]]
   from = "/subscribe-30150000"
   to = "https://my.datafeedr.com/register"
+  
+[[redirects]]
+  from = "/register"
+  to = "https://my.datafeedr.com/register"
     
