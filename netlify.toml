@@ -509,4 +509,8 @@
 [[redirects]]
   from = "/plugins"
   to = "https://my.datafeedr.com/plugins"
+
+[[redirects]]
+  from = "/n/18"
+  to = "https://2performant.com/"
     
