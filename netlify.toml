@@ -510,7 +510,9 @@
   from = "/plugins"
   to = "https://my.datafeedr.com/plugins"
 
-
+[[redirects]]
+  from = "/hover"
+  to = "https://hover.com/Jthb7zbi"
 
 
 
