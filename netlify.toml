@@ -510,6 +510,10 @@
   from = "/plugins"
   to = "https://my.datafeedr.com/plugins"
 
+[[redirects]]
+  from = "/spinupwp"
+  to = "https://spinupwp.com/?referral=x1jLAp2rDy"
+
 
 
 
