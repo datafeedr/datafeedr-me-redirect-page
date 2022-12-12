@@ -511,6 +511,10 @@
   to = "https://my.datafeedr.com/plugins"
 
 [[redirects]]
+  from = "/hover"
+  to = "https://hover.com/Jthb7zbi"
+
+[[redirects]]
   from = "/spinupwp"
   to = "https://spinupwp.com/?referral=x1jLAp2rDy"
 
