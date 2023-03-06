@@ -518,6 +518,10 @@
   from = "/spinupwp"
   to = "https://spinupwp.com/?referral=x1jLAp2rDy"
 
+[[redirects]]
+  from = "/affiliates"
+  to = "https://www.my-e-sell.com/"
+
 
 
 
