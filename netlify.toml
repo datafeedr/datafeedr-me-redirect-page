@@ -522,7 +522,9 @@
   from = "/affiliates"
   to = "https://www.my-e-sell.com/"
 
-
+[[redirects]]
+  from = "/shoptimizer"
+  to = "https://www.commercegurus.com/product/shoptimizer/ref/154/"
 
 
 
