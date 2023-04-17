@@ -526,6 +526,10 @@
   from = "/shoptimizer"
   to = "https://www.commercegurus.com/product/shoptimizer/ref/154/"
 
+[[redirects]]
+  from = "/afflift"
+  to = "https://afflift.com/?r=88719 "
+
 
 
 
