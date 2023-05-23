@@ -528,9 +528,15 @@
 
 [[redirects]]
   from = "/afflift"
-  to = "https://afflift.com/?r=88719 "
+  to = "https://afflift.com/?r=88719"
 
+[[redirects]]
+  from = "/elementorai"
+  to = "https://be.elementor.com/visit/?bta=212900&nci=5550"
 
+[[redirects]]
+  from = "/elementorpro"
+  to = "https://be.elementor.com/visit/?bta=212900&nci=5379"
 
 
 
